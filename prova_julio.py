@@ -95,3 +95,4 @@ df_cpu
 df_cpu["uso_médio"] = df_cpu.mean(axis=1)
 df_cpu
 
+"teste commit"
